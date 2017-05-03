@@ -1,0 +1,21 @@
+{
+  "name": "ykit-config-seed",
+  "version": "0.1.0",
+  "description": "ykit 插件模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YMFE/ykit-config-seed.git"
+  },
+  "keywords": [
+    "ykit",
+    "webpack"
+  ],
+  "homepage": "https://github.com/YMFE/ykit-config-seed",
+  "author": "heiwu805@hotmail.com",
+  "license": "MIT",
+  "dependencies": {}
+}
